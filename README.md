@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
-[![Discord Presence](https://lanyard.cnrad.dev/api/331057515292917763)](https://discord.com/users/331057515292917763)
-     </a>
+<a href="https://discord.com/users/331057515292917763">
+  <img src="https://lanyard-profile-readme.vercel.app/api/331057515292917763?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+</a>
 </p>
