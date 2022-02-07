@@ -7,6 +7,6 @@
 
 <p align="center"><br>
 <a href="https://discord.com/users/331057515292917763">
-  <img src="https://lanyard-profile-readme.vercel.app/api/331057515292917763?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/331057515292917763?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..."/>
 </a>
 </p>
