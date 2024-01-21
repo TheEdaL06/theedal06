@@ -42,6 +42,6 @@
 
 ###
 
-<img align="left" height="200" src="https://lanyard-profile-readme.vercel.app/api/331057515292917763?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..."  />
+<img align="center" height="200" src="https://lanyard-profile-readme.vercel.app/api/331057515292917763?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..."  />
 
 ###
