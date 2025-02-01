@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 Estoy trabajando como QA Tester en GTAHUB<br>- 📚 Actualmente estoy aprendiendo desarrollo Web FullStack</p>
+<p align="left">- 🔭 Trabajando como QA Tester en GTAHUB<br>- 📚 Actualmente estoy aprendiendo desarrollo Web</p>
 
 ###
 
